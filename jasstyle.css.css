@@ -1,0 +1,57 @@
+body{
+	background:	#808080;
+	color:;
+	font-family:'Arial', sans-serif;
+	font-size:14px;
+}
+
+#container{
+	width:60%;
+	background:	#FFFFFF;
+	margin:20px auto;
+	overflow:auto;
+	padding:25px;
+}
+
+header{
+	text-align:center;
+	border-bottom:#fff dashed 1px;
+}
+
+header h1{
+	margin:0;
+	padding:0;
+}
+
+header p{
+	padding:0;
+	margin-top:5px;
+	color:;
+}
+
+section{
+	min-height:400px;
+}
+
+footer{
+	text-align:center;
+}
+
+input[type='submit']{
+	background:;
+	border:0;
+	color:;
+	padding:10px 15px;
+	cursor:pointer;
+}
+
+#results h3{
+	background:;
+	padding:10px;
+	margin:10px 0;
+}
+
+#results span{
+	color:;
+	font-weight:bold;
+}
